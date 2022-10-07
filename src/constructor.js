@@ -9,5 +9,5 @@ export function Constructor2(paramater) {
 }
 
 Constructor.prototype.checkType = function() {
-  return "Test"
+  return "Test";
 };
